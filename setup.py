@@ -1,11 +1,11 @@
 from setuptools import setup
 
 setup(
-    name="LyroxCoder",
+    name="Lyrox",
     version="2.3.4",
-    py_modules=["LyroxCoder"],
+    py_modules=["Lyrox"],
     install_requires=["base91"],
-    author="LyroxCoder",
+    author="Lyrox",
     description="Telegram; @LyroxPy",
     classifiers=[
         "Programming Language :: Python :: 3",
