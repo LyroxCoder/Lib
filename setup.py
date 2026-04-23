@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="LyroxCoder",
-    version="2.2.3",
+    version="2.3.4",
     py_modules=["LyroxCoder"],
     install_requires=["base91"],
     author="LyroxCoder",
